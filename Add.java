@@ -17,6 +17,7 @@ public class Add {
         int result = number.plus();
         System.out.println(result);
         System.out.println("Hello, world!");
+
     }
   
   class Client implements Runnable{
@@ -27,3 +28,4 @@ public class Add {
     
   }
 }
+
