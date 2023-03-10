@@ -4,3 +4,4 @@ So.... Im used to say english.
 Thanks 😇
 if you wanna talk to me. Please DM 🙏 (Instagram)
 
+manseok bakamono~~~!
