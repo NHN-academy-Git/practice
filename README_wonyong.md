@@ -33,7 +33,7 @@
 
 - COMMON service
 
-  1.
+  1. 로깅 기능 구현
 
 - Status Code
 
