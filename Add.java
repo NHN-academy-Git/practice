@@ -18,4 +18,3 @@ public class Add {
         System.out.println(result);
         System.out.println("Hello, world!");
     }
-}>>>>>>>developed
