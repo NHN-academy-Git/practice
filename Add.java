@@ -18,4 +18,12 @@ public class Add {
         System.out.println(result);
         System.out.println("Hello, world!");
     }
+  
+  class Client implements Runnable{
+    @Override
+    public void run(){
+      
+    }
+    
+  }
 }
